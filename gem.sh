@@ -13,11 +13,8 @@ set -o errexit
   set -o nounset
 # set -o xtrace
 
-JrubyDir="${__dir}/jruby-9.2.13.0"
-
-export PATH=$PATH:$JrubyDir/bin
-export GEM_HOME=$JrubyDir/../gem_home
-export GEM_PATH=$JrubyDir/../gem_home
-
+source "${__dir}"/SOURCE_JRUBY_ENV_VARS.source
 gem "${@}"
 #jruby "${@}"
+
+#EX: gem.sh install robut --no-document
