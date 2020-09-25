@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"prompt_procs:ETI"Pry::Prompt#prompt_procs;TI"R;T:publico:RDoc::Markup::Document:
+@fileI"lib/pry/prompt.rb;T:0@omit_headings_from_table_of_contents_below0:@parts[o:RDoc::Markup::Paragraph;[I"7@return [Array<Proc>] the array of procs that hold;To:RDoc::Markup::Verbatim:@format0;[I"#`[wait_proc, incomplete_proc]`;TF@I"Pry::Prompt;TcRDoc::NormalClass0

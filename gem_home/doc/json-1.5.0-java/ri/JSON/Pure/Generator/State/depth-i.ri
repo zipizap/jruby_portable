@@ -1,0 +1,3 @@
+U:RDoc::Attr[iI"
+depth:ETI"'JSON::Pure::Generator::State#depth;TI"RW;T:publico:RDoc::Markup::Document:
+@fileI"lib/json/pure/generator.rb;T:0@omit_headings_from_table_of_contents_below0:@parts[o:RDoc::Markup::Paragraph;[I"JThis integer returns the current depth data structure nesting in the ;TI"generated JSON.;TF@I"!JSON::Pure::Generator::State;TcRDoc::NormalClass0

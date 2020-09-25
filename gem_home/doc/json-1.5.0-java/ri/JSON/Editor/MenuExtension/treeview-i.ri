@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"treeview:ETI")JSON::Editor::MenuExtension#treeview;TI"R;T:publico:RDoc::Markup::Document:
+@fileI"lib/json/editor.rb;T:0@omit_headings_from_table_of_contents_below0:@parts[o:RDoc::Markup::Paragraph;[I",Returns the Gtk::TreeView of this menu.;TF@I" JSON::Editor::MenuExtension;TcRDoc::NormalModule0

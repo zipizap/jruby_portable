@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"'CodeRay::Encoders::Encoder#options;TI"RW;T:publico:RDoc::Markup::Document:
+@fileI"$lib/coderay/encoders/encoder.rb;T:0@omit_headings_from_table_of_contents_below0:@parts[o:RDoc::Markup::Paragraph;[I"2The options you gave the Encoder at creating.;TF@I"CodeRay::Encoders::Encoder;TcRDoc::NormalClass0

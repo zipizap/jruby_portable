@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	size:ETI"Pry::Ring#size;TI"R;T:publico:RDoc::Markup::Document:
+@fileI"lib/pry/ring.rb;T:0@omit_headings_from_table_of_contents_below0:@parts[o:RDoc::Markup::Paragraph;[I"M@return [Integer] how many objects were added during the lifetime of the;To:RDoc::Markup::Verbatim:@format0;[I"	ring;TF@I"Pry::Ring;TcRDoc::NormalClass0

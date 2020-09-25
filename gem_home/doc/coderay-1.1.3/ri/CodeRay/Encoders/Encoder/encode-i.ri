@@ -1,0 +1,5 @@
+U:RDoc::AnyMethod[iI"encode:ETI"&CodeRay::Encoders::Encoder#encode;TF:publico:RDoc::Markup::Document:
+@fileI"$lib/coderay/encoders/encoder.rb;T:0@omit_headings_from_table_of_contents_below0:@parts[o:RDoc::Markup::Paragraph;[I":Encode the given +code+ using the Scanner for +lang+.;T00[[I"highlight;To;;	@
+;
+0;[o;;[I"<You can use highlight instead of encode, if that seems ;TI"more clear to you.;TI"(code, lang, options = {});T@
+FI"Encoder;TcRDoc::NormalClass00
